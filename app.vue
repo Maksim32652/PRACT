@@ -4,8 +4,8 @@ import Default from "~/layout/default.vue";
 
 
 <template>
-  <default></default>
-  <NuxtLayout>
+
+  <default>
     <NuxtPage />
-  </NuxtLayout>
+  </default>
 </template>
